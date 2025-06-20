@@ -1,1 +1,4 @@
-https://author-p153804-e1614923.adobeaemcloud.com/bin/franklin.delivery/toniadobe/XWalkForms/main
+mountpoints:
+    url: https://author-p153804-e1614923.adobeaemcloud.com/bin/franklin.delivery/toniadobe/XWalkForms/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
